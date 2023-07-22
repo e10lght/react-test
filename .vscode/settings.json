@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": null,
+  "editor.formatOnSave": false,
+  "prettier.configPath": ".prettierrc"
+}
